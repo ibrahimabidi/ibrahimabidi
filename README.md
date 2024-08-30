@@ -1,9 +1,18 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ibrahim Abidi
 
 ## Fullstack Developer
-🌍 Based in Tunis, Tunisia  
-✉️ Contact me at [ibrahimabidi08@gmail.com](mailto:ibrahimabidi08@gmail.com)  
-🤝 Open to collaborating on projects
+
+<p align="center">
+  <a href="https://www.google.com/maps?q=Tunis,+Tunisia" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Location-Tunis%2C%20Tunisia-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  </a>
+  <a href="mailto:ibrahimabidi08@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-ibrahimabidi08@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ibrahimabidi" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Collaborate-GitHub-yellowgreen?style=for-the-badge&logo=github&logoColor=black" alt="Collaborate" />
+  </a>
+</p>
 
 ---
 
@@ -22,27 +31,18 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
 </p>
 
----
+### 📈 Badges
 
-### 🌟 Connect with me
-
-<p align="center">
-  <a href="https://www.facebook.com/brahim.abidi08" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.github.com/ibrahimabidi" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ibrahim-abidi/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
----
-
-### 📊 My GitHub Stats
+<b>My GitHub Stats</b>
 
 <p align="center">
-  <a href="http://www.github.com/ibrahimabidi"><img src="https://github-readme-stats.vercel.app/api?username=ibrahimabidi&show_icons=true&hide_title=true&hide=prs&count_private=true&title_color=4F46E5&text_color=9CA3AF&icon_color=4F46E5&bg_color=1F2937&hide_border=true" alt="ibrahimabidi's GitHub stats" /></a>
-  <a href="http://www.github.com/ibrahimabidi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimabidi&stroke=9CA3AF&background=1F2937&ring=4F46E5&fire=4F46E5&currStreakNum=9CA3AF&currStreakLabel=4F46E5&sideNums=9CA3AF&sideLabels=9CA3AF&dates=9CA3AF&hide_border=true" alt="ibrahimabidi's GitHub streak" /></a>
+  <a href="http://www.github.com/ibrahimabidi">
+    <img src="https://github-readme-stats.vercel.app/api?username=ibrahimabidi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ibrahimabidi's GitHub stats" />
+  </a>
 </p>
 
----
-
-### 👨‍💻 About Me
-I'm passionate about web development and always eager to learn new technologies. Feel free to connect with me or check out my projects!
-
+<p align="center">
+  <a href="http://www.github.com/ibrahimabidi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimabidi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+</p>
